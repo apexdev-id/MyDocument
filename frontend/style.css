@@ -4,7 +4,7 @@
     }
 
     body {
-    background: linear-gradient(135deg, #1d2671, #c33764);
+    background: darkslategray;
     min-height: 100vh;
     margin: 0;
     display: flex;
@@ -23,7 +23,7 @@
     h1 {
     text-align: center;
     margin-bottom: 20px;
-    color: #1d2671;
+    color: darkslategray;
     }
 
     input {
@@ -38,7 +38,7 @@
     button {
     width: 100%;
     padding: 12px;
-    background: #1d2671;
+    background: darkslategray;
     color: white;
     border: none;
     border-radius: 8px;
